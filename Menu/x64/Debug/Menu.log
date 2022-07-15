@@ -1,0 +1,105 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Characters.cpp
+  Game.cpp
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Maze.h(122,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(14,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(70,30): warning C4244: '=': conversión de 'clock_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(74,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(230,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(306,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(315,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(376,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(381,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(386,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(391,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(396,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(401,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(402,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(407,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(412,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(417,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(418,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(423,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(377,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(382,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(387,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(392,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(397,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(403,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(408,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(413,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(419,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(424,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Game.h(100,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Game.h(106,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Juego.cpp
+  Menu.cpp
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Maze.h(122,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(14,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(70,30): warning C4244: '=': conversión de 'clock_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(74,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(230,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(306,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(315,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(376,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(381,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(386,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(391,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(396,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(401,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(402,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(407,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(412,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(417,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(418,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(423,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(377,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(382,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(387,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(392,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(397,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(403,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(408,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(413,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(419,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(424,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Game.h(100,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Game.h(106,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  MyForm.cpp
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Maze.h(122,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(14,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(70,30): warning C4244: '=': conversión de 'clock_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Portales.h(74,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(230,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(306,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(315,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(376,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(381,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(386,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(391,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(396,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(401,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(402,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(407,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(412,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(417,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(418,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(423,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(377,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(382,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(387,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(392,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(397,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(403,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(408,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(413,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(419,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Controller.h(424,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Game.h(100,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PC\source\repos\Menu - copia (6)\Menu\Game.h(106,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  MyForm1.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Menu.vcxproj -> C:\Users\PC\source\repos\Menu - copia (6)\x64\Debug\Menu.exe
