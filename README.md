@@ -14,7 +14,7 @@ To run it Press the following button.
 Local Windows Debugger
 ```
 
-##Menu
+## Menu
 
 Once the game has compiled a window will show up, giving you two options. The first one to play the game, and the other one to show you some instruction to how to play the game.
 
