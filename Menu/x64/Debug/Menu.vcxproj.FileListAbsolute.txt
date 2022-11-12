@@ -1,16 +1,5 @@
-C:\Users\PC\source\repos\Menu\Menu\x64\Debug\Menu.vcxprojAssemblyReference.cache
-C:\Users\PC\source\repos\Menu\Menu\x64\Debug\Menu.Game.resources
-C:\Users\PC\source\repos\Menu\Menu\x64\Debug\Menu.MyForm.resources
-C:\Users\PC\source\repos\Menu\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
-C:\Users\user\Desktop\upc\progra 2\Menu - copia (6)\Menu\x64\Debug\Menu.vcxprojAssemblyReference.cache
-C:\Users\user\Desktop\upc\progra 2\Menu - copia (6)\Menu\x64\Debug\Menu.Game.resources
-C:\Users\user\Desktop\upc\progra 2\Menu - copia (6)\Menu\x64\Debug\Menu.MyForm.resources
-C:\Users\user\Desktop\upc\progra 2\Menu - copia (6)\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
-C:\Users\PC\source\repos\Menu - copia (6)\Menu\x64\Debug\Menu.vcxprojAssemblyReference.cache
-C:\Users\PC\source\repos\Menu - copia (6)\Menu\x64\Debug\Menu.Game.resources
-C:\Users\PC\source\repos\Menu - copia (6)\Menu\x64\Debug\Menu.MyForm.resources
-C:\Users\PC\source\repos\Menu - copia (6)\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
-C:\Users\PC\Desktop\U\CICLO-2\Progra-2\repos\Menu - copia (25) - copia\Menu\x64\Debug\Menu.vcxprojAssemblyReference.cache
-C:\Users\PC\Desktop\U\CICLO-2\Progra-2\repos\Menu - copia (25) - copia\Menu\x64\Debug\Menu.Game.resources
-C:\Users\PC\Desktop\U\CICLO-2\Progra-2\repos\Menu - copia (25) - copia\Menu\x64\Debug\Menu.MyForm.resources
-C:\Users\PC\Desktop\U\CICLO-2\Progra-2\repos\Menu - copia (25) - copia\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
+D:\Software-Proyects\GitHub\C++\Mazion\Menu\x64\Debug\Menu.vcxproj.AssemblyReference.cache
+D:\Software-Proyects\GitHub\C++\Mazion\Menu\x64\Debug\Menu.vcxproj.SuggestedBindingRedirects.cache
+D:\Software-Proyects\GitHub\C++\Mazion\Menu\x64\Debug\Menu.Game.resources
+D:\Software-Proyects\GitHub\C++\Mazion\Menu\x64\Debug\Menu.MyForm.resources
+D:\Software-Proyects\GitHub\C++\Mazion\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
